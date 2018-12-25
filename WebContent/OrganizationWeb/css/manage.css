@@ -1,0 +1,221 @@
+/*main*/
+.main{
+	margin: 80px auto 0px auto;
+	width: 1200px;
+	overflow: hidden;
+}
+.navbar{
+	margin-bottom: 170px;
+	float: left;
+	width: 210px;
+	background: #fff;
+}
+.release{
+	margin: 20px auto;
+	display: block;
+	width: 170px;
+	height: 50px;
+	line-height: 50px;
+	background-color: #69e;
+	text-align: center;
+    color: #fff!important;
+    font-size: 18px;
+}
+.release:hover{
+	background: #7aa8f4;
+}
+.menu{
+	margin: 10px auto 20px auto;
+	padding-top: 10px;
+	width: 170px;
+	border-top: 1px dashed #e6e6e6;
+}
+.menu a{
+	display: block;
+	overflow: hidden;
+	width: 170px;
+	color: #4b4b4b;
+}
+.menu a:hover{
+	color: #69e;
+}
+.menu img{
+	float: left;
+	margin-top: 12px;
+	margin-right: 10px;
+	width: 16px;
+	height: 16px;
+}
+.menu-item1{
+	font-size: 16px;
+	height: 40px;
+	line-height: 40px;
+}
+.menu-item2{
+	padding-left: 26px;
+	font-size: 14px;
+	height: 30px;
+	line-height: 30px;
+}
+.main-r{
+	float: right;
+	width: 980px;
+}
+.main-search{
+	width: 100%;
+	height: 46px;
+	background: #fff;
+}
+.main-search p{
+	float: left;
+	margin-left: 20px;
+	height: 46px;
+	line-height: 46px;
+	font-size: 16px;
+}
+.search{
+	float: right;
+	margin-right: 20px;
+	margin-top: 8px;
+	overflow: hidden;
+}
+.search input:first-child{
+	float: left;
+	line-height: 16px;
+    height: 16px;
+    padding: 6px 9px;
+    border: solid 1px #dcdcdc;
+    width: 180px;
+    color: #707070;
+    font-size: 14px;
+    outline:none;
+}
+.search input:last-child{
+	float: left;
+	margin-left: -1px;
+    background-color: #69e;
+    color: #fff;
+    border: none 0;
+    height: 30px;
+    line-height: 26px;
+    width: 70px;
+    overflow: visible;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+}
+.main-job{
+	margin-top: 10px;
+	padding: 10px 20px;
+	background: #fff;
+}
+.main-info{
+	margin-top: 10px;
+	padding: 20px 20px;
+	width: 100%;
+	background: #fff;
+}
+.info{
+	margin-left: 200px;
+}
+.info-title{
+	padding-left: 10px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 16px;
+	border-left: 3px solid #69e;
+}
+.info-area{
+	overflow: hidden;
+	margin: 20px 0px;
+}
+.info-area p{
+	float: left;
+	height: 30px;
+	line-height: 30px;
+	width: 80px;
+	margin-left: 13px;
+}
+.info-area input{
+	float: left;
+	line-height: 16px;
+	width: 400px;
+    height: 16px;
+    padding: 6px 9px;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	outline:none;
+}
+.info-area textarea{
+	float: left;
+	width: 400px;
+    height: 76px;
+    padding: 6px 9px;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	outline:none;
+	overflow:hidden;
+	resize:none;
+	font-family: "Microsoft YaHei";
+}
+.info-file{
+	overflow: hidden;
+	margin: 20px 0px;
+}
+.info-file p{
+	float: left;
+	height: 30px;
+	line-height: 30px;
+	width: 80px;
+	margin-left: 13px;
+}
+.info-file input{
+	float: left;
+	font-size: 14px;
+	height: 30px;
+	line-height: 30px;
+}
+.info-button{
+	margin-left: 220px;
+	width: 100px;
+	height: 30px;
+	color: #fff;
+	background: #69e;
+	font-size: 16px;
+	border: 0px;
+	border-radius: 2px;
+	cursor: pointer;
+}
+.info-button:hover{
+	background: #7aa8f4;
+}
+/*table*/
+.main-table{
+	width: 940px;
+}
+.main-table tr{
+	height: 40px;
+}
+.main-table td{
+	color: #333;
+	text-align: center;
+}
+.main-table td>a{
+	color: #69e;
+}
+.table-title{
+	margin: 0 auto;
+	text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 180px;
+    text-align: center;
+}
+.table-place{
+	margin: 0 auto;
+	text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 260px;
+    text-align: center;
+}

@@ -1,0 +1,140 @@
+/*banner*/
+.banner{
+	margin: 80px auto 0px auto;
+	width: 1200px;
+	height: 60px;
+	background: #ccc;
+}
+/*main*/
+.main{
+	margin: 20px auto 0px auto;
+	width: 1200px;
+	overflow: hidden;
+}
+.main-title{
+	padding: 20px;
+	font-size: 14px;
+    color: #999;
+}
+.main-left{
+	float: left;
+	width: 880px;
+}
+.main-left-info{
+	width: 100%;
+	background: #fff;
+}
+.main-left-new{
+	margin-top: 20px;
+	width: 100%;
+	min-height: 300px;
+	background: #fff;
+	overflow: hidden;
+}
+.main-right{
+	float: right;
+	width: 300px;
+	background: #fff;
+}
+.info{
+	overflow: hidden;
+	text-align: center;
+}
+.info-area{
+	float: left;
+	width: 220px;
+	height: 160px;
+	overflow: hidden;
+}
+.info-area p{
+	margin-top: 15px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #707070;
+}
+.info-area-num {
+	margin-top: 15px;
+    line-height: 45px;
+    font-size: 14px;
+    color: #808080;
+}
+.info-area-num b{
+	margin-right: 5px;
+    font-size:32px;
+    font-weight: 700;
+    color: #ffa928;
+}
+.info-area-link{
+	margin-top: 15px;
+    font-size: 14px;
+    line-height: 20px;
+}
+.info-area-link a{
+	color: #69e;
+}
+.business{
+	text-align: center;
+}
+.business p{
+	margin-top: 20px;
+    font-size: 16px;
+    color: #4c4c4c;
+    height: 20px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.business a{
+	display: block;
+	margin: 15px auto 20px auto;
+	width: 120px;
+	height: 30px;
+	line-height: 30px;
+	border-radius: 2px;
+	background: #69e;
+	text-align: center;
+	color: #fff;
+}
+.business a:hover{
+	background: #7aa8f4;
+}
+.new-hr{
+	margin: 0 auto;
+	width: 840px;
+	height: 1px;
+	background: #ddd;
+}
+.new-button{
+	display: block;
+	margin: 100px auto 100px auto;
+	width: 190px;
+	height: 43px;
+	line-height: 43px;
+	font-size: 16px;
+	border-radius: 2px;
+	background: #69e;
+	text-align: center;
+}
+.new-button:hover{
+	background: #7aa8f4;
+}
+.main-job{
+	margin: 20px 0px;
+	padding: 0px 20px;
+	width: 840px;
+	overflow: hidden;
+	font-size: 18px;
+}
+.main-job a{
+	display: block;
+	margin-bottom: 20px;
+	font-size: 18px;
+	margin-left: 20px;
+	margin-right: 20px;
+	color: #69e;
+}
+.main-job a>span{
+	float: right;
+	color: #333;
+}

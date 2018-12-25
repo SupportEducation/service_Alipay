@@ -1,0 +1,100 @@
+/*main*/
+.main{
+	margin: 80px auto 0px auto;
+	padding: 20px 100px;
+	width: 690px;
+	overflow: hidden;
+	background: #fff;
+}
+.main-title{
+	font-size: 20px;
+	font-weight: 700;
+	padding-left: 10px;
+	border-left: 4px solid #69e;
+	height: 20px;
+	line-height: 20px;
+}
+.main-item{
+	margin: 20px 0px;
+	overflow: hidden;
+}
+.main-item p{
+	float: left;
+	width: 96px;
+	margin-left: 15px;
+	font-size: 16px;
+	height: 34px;
+	line-height: 34px;
+}
+.main-item input{
+	float: left;
+	margin-left: 20px;
+	width: 200px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 16px;
+	padding-left: 10px;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	outline:none;
+}
+.main-item select{
+	float: left;
+	margin-left: 20px;
+	width: 211px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 16px;
+	padding-left: 10px;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	outline:none;
+}
+.main-item textarea{
+	margin-left: 20px;
+	font-size: 16px;
+	width: 535px;
+    height: 240px;
+    padding: 6px 9px;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	
+	
+	resize: vertical;
+	font-family: "Microsoft YaHei";
+}
+.main-item div{
+	margin-left: 20px;
+	float:left;
+	width:535px;
+}
+.main-file{
+	margin: 20px 0px;
+	overflow: hidden;
+}
+.main-file p{
+	float: left;
+	width: 96px;
+	margin-left: 15px;
+	font-size: 16px;
+	height: 34px;
+	line-height: 34px;
+}
+.main-file input{
+	float: left;
+	margin-left: 15px;
+	font-size: 16px;
+	height: 34px;
+	line-height: 34px;
+}
+.main-button{
+	margin:0px 0px 0px 270px;
+	width: 150px;
+	height: 40px;
+	color: #fff;
+	background: #69e;
+	font-size: 16px;
+	border: 0px;
+	border-radius: 2px;
+	cursor: pointer;
+}
